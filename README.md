@@ -20,7 +20,7 @@ After you have done this you may want to change the resolution afterwards or inc
 2. Press n to toggle hide/show of the properties panel > Align > Press Align Camera to View and you're done.
 
 # Installation
-### To install UEShaderScript:
-1. Go here: https://github.com/AnimNyan/UEShaderScript/releases Right click on "UEShaderScript_v.X.X.X.zip" > Save Link As do NOT unzip it. 
-2. Open Blender and click Edit > Preferences > Add-Ons > Install > in the file explorer find "UEShaderScript_v.X.X.X.zip" and select it.
-3. In the Add-Ons search, search for UE Shader Maps and enable the Add On to complete the installation.
+### To install AlignCameraToView:
+1. Go here: https://github.com/AnimNyan/AlignCameraToView/releases Right click on "AlignCameraToView_v.X.X.X.zip" > Save Link As do NOT unzip it. 
+2. Open Blender and click Edit > Preferences > Add-Ons > Install > in the file explorer find "AlignCameraToView_v.X.X.X.zip" and select it.
+3. In the Add-Ons search, search for "Align Camera" and enable the Add On to complete the installation.
